@@ -1,0 +1,1 @@
+POST localhost:8080/create/diary?date=2024-02-23
